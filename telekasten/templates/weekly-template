@@ -13,4 +13,7 @@ date: {{date}}
 
 ## Navigation
 
+#### Tags
+#weekly
+
 <- [[{{isoprevweek}}]] | [[{{isonextweek}}]] ->
