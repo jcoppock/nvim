@@ -1,4 +1,14 @@
 ---
-title: {{title}}
+title: {{date}}
 date: {{date}}
 ---
+
+# {{hdate}}
+
+## Tasks
+
+## Notes
+
+## Issues
+
+## Reflections

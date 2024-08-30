@@ -1,4 +1,16 @@
 ---
-title: {{title}}
+title: {{isoweek}}
 date: {{date}}
 ---
+
+# {{year}} Week {{week}} | {{sunday}}-{{monday}}
+
+## Accomplishments
+
+## Challenges
+
+## Learning
+
+## Navigation
+
+<- [[{{isoprevweek}}]] | [[{{isonextweek}}]] ->
