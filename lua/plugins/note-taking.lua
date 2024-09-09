@@ -27,6 +27,8 @@ return {
       vim.keymap.set("n", "<leader>zb", "<cmd>Telekasten show_backlinks<CR>")
       vim.keymap.set("n", "<leader>zI", "<cmd>Telekasten insert_img_link<CR>")
 
+      vim.keymap.set("n", "<leader>zT", ':lua require("telescope.builtin").live_grep({default_text = "\\\\[ \\\\]", search_dirs = {"~/zettelkasten"}})<CR>')
+
       -- Call insert link automatically when we start typing a link
       vim.keymap.set("i", "[[", "<cmd>Telekasten insert_link<CR>")
     end,
